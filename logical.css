@@ -1,0 +1,28 @@
+.a{
+    color: red;
+background-color: blue;
+text-align: 6;
+padding-top: 50px;
+
+
+
+}
+.c{
+    text-align: center;height: 10vh;
+    color: antiquewhite;
+}
+.col{
+    background-color: black ;
+    
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left:10px;
+    
+}
+.cr{
+
+padding-top: 100px;
+font-size: 50px;
+text-align: center;
+
+}
